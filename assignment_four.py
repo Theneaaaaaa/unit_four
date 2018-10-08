@@ -42,6 +42,7 @@ def game_mode():
         print("You win!")
     else:
         print("You lose.")
+# These statements make sure the program runs without misjudgement.
 
 
 def main():
@@ -54,9 +55,6 @@ def main():
             game_mode()
         else:
             print("You lost. Because you did not even want to start the game.")
-
-
-# These statements make sure the program runs without misjudgement.
 
 
 main()
