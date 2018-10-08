@@ -10,6 +10,7 @@ import random
 def draw_a_card():
     number = random.randint(1, 10)
     return number
+# The basic function and the only function we really need here XD!
 
 
 def main():
